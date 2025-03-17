@@ -6,28 +6,28 @@ import { FaWhatsapp } from "react-icons/fa";
 const templates = [
   {
     id: 1,
-    name: "Mosque 1",
+    name: "Masjid 1",
     videoUrl: "/vidio/Mockup1.mp4",
     category: "Modern",
     isPopular: true,
   },
   {
     id: 2,
-    name: "Traditional Ketupat",
-    videoUrl: "/vidio/Mockup1.mp4",
+    name: "2D Masjid",
+    videoUrl: "/vidio/2DMasjid.mp4",
     category: "Traditional",
     isNew: true,
   },
   {
     id: 3,
-    name: "Minimalist Masjid",
-    videoUrl: "/vidio/Mockup1.mp4",
+    name: "Elegant 1",
+    videoUrl: "/vidio/Elegant1.mp4",
     category: "Minimalist",
   },
   {
     id: 4,
-    name: "Floral Islamic",
-    videoUrl: "/vidio/Mockup1.mp4",
+    name: "Family 1",
+    videoUrl: "/vidio/Family1.mp4",
     category: "Modern",
   },
 ];
