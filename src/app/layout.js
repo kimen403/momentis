@@ -24,6 +24,9 @@ const lateef = Lateef({
 export const metadata = {
   title: "Lebaran 2025",
   description: "Celebrate Lebaran 2025",
+  images: {
+    favicon: "/LogoStoryId.png",
+  },
 };
 
 export default function RootLayout({ children }) {
