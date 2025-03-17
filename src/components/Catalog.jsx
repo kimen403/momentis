@@ -21,7 +21,7 @@ const templates = [
   {
     id: 3,
     name: "Elegant 1",
-    videoUrl: "/vidio/Elegant1.mp4",
+    videoUrl: "/vidio/Elegant1revisi.mp4",
     category: "Minimalist",
   },
   {
