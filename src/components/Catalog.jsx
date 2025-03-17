@@ -27,7 +27,7 @@ const templates = [
   {
     id: 4,
     name: "Family 1",
-    videoUrl: "/vidio/Family1.mp4",
+    videoUrl: "/vidio/Family2.mp4",
     category: "Modern",
   },
 ];
