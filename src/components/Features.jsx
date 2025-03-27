@@ -23,7 +23,7 @@ const steps = [
     icon: <HiCreditCard className="h-8 w-8" />,
     title: "3. Pembayaran",
     description:
-      "Lakukan pembayaran sebesar Rp 49.000 melalui transfer bank atau e-wallet",
+      "Lakukan pembayaran sebesar 7€ melalui transfer bank atau e-wallet",
   },
   {
     icon: <HiDownload className="h-8 w-8" />,

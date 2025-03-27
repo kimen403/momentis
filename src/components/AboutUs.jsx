@@ -80,7 +80,7 @@ function AboutUs() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-gold-600 mr-2">•</span>
-                  <span>Harga Terjangkau: Rp 49.000</span>
+                  <span>Harga Terjangkau: 7€</span>
                 </li>
               </ul>
             </motion.div>

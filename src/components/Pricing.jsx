@@ -18,7 +18,7 @@ export default function Pricing() {
     const message = `Assalamualaikum, saya tertarik dengan Paket Lebaran Digital.
 
 Template: Paket Lebaran Digital
-Harga: Rp 49.000 (Promo)
+Harga: 7€ (Promo)
 
 Mohon informasi lebih lanjut.`;
 

@@ -47,7 +47,7 @@ export default function Catalog() {
     const message = `Assalamualaikum, saya tertarik dengan template:
 
 Nama Template: ${templateName}
-Harga: Rp 49.000 (Promo)
+Harga: 7€ (Promo)
 
 Mohon informasi lebih lanjut.`;
 
