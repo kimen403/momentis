@@ -20,11 +20,11 @@ export default function Footer() {
             </p>
             <div className="space-y-3">
               <a
-                href="mailto:contact@lebaran2025.com"
+                href="mailto:info@theritzmedia.com"
                 className="flex items-center gap-2 text-muted-foreground hover:text-primary"
               >
                 <HiMail className="w-5 h-5" />
-                kykuandco@gmail.com
+                info@theritzmedia.com
               </a>
               <a
                 href="tel:+6281234567890"

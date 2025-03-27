@@ -53,13 +53,9 @@ Mohon informasi lebih lanjut.`;
                 HEMAT 60%
               </div>
               <div className="mb-1">
-                <span className="text-gray-400 text-2xl line-through">
-                  Rp 120.000
-                </span>
+                <span className="text-gray-400 text-2xl line-through">12€</span>
               </div>
-              <div className="text-5xl font-bold text-primary mb-2">
-                Rp 49.000
-              </div>
+              <div className="text-5xl font-bold text-primary mb-2">7€</div>
               <p className="text-gray-600">Harga spesial untuk 1 desain</p>
             </div>
 
